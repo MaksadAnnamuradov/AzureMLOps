@@ -1,6 +1,6 @@
 #!flask/bin/python
 from flask import Flask, jsonify
-from sklearn.externals import joblib
+import joblib
 
 
 filename = 'model/sal_model.pkl'

@@ -2,7 +2,7 @@ import json
 import numpy as np
 import os
 import pickle
-from sklearn.externals import joblib
+import joblib
 from sklearn.linear_model import LogisticRegression
 
 from azureml.core.model import Model
