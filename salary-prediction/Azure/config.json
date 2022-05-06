@@ -1,1 +1,5 @@
-{"Id": null, "Scope": "/subscriptions/f0da6105-47f8-4fe9-8ca6-dd54a37a1fdc/resourceGroups/azure-ml-rg/providers/Microsoft.MachineLearningServices/workspaces/ml-pipeline-salary"}
+{
+    "subscription_id": "f0da6105-47f8-4fe9-8ca6-dd54a37a1fdc",
+    "resource_group": "azure-ml-rg",
+    "workspace_name": "ml-data-gurus"
+}
